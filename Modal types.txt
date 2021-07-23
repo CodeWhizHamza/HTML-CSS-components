@@ -1,0 +1,12 @@
+Modals (sweetalerts)
+
+1. Modal
+2. Toast
+3. Dark Modal
+4. Borderless Modal
+
+Ideas:
+
+1. Success modal on Subscribe
+2. Confirm modal on Delete
+3. Notification toast on Delete
