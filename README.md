@@ -7,3 +7,6 @@
 
 Button hover effect:
 [button-component](https://github.com/hamza-student/HTML-CSS-components/tree/button-component)
+
+
+For sweetalert branch click [here](https://github.com/hamza-student/HTML-CSS-components/tree/sweetalert)
