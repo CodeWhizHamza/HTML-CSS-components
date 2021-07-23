@@ -6,4 +6,4 @@
 ## LINKS:
 
 Button hover effect:
-[button-component]('https://github.com/hamza-student/HTML-CSS-components/tree/button-component')
+[button-component](https://github.com/hamza-student/HTML-CSS-components/tree/button-component)
