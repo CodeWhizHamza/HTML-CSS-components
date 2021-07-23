@@ -1,0 +1,6 @@
+Animation types
+
+1. Left to right
+2. Left top to right bottom
+3. Left bottom to right bottom
+4. Bottom to top
